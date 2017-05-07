@@ -1,2 +1,2 @@
 # basicMvvmSkeleton
-basic skeleton to start wpf mvvm projects
+basic mvvmlight skeleton project.
