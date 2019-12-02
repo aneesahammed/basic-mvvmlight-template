@@ -1,2 +1,2 @@
-# basicMvvmSkeleton
-basic mvvmlight skeleton project.
+# basic-mvvmlight-template
+basic mvvmlight template to start wpf desktop application.
